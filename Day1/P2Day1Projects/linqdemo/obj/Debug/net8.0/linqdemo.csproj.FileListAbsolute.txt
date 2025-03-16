@@ -1,0 +1,14 @@
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\bin\Debug\net8.0\linqdemo.exe
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\bin\Debug\net8.0\linqdemo.deps.json
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\bin\Debug\net8.0\linqdemo.runtimeconfig.json
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\bin\Debug\net8.0\linqdemo.dll
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\bin\Debug\net8.0\linqdemo.pdb
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\obj\Debug\net8.0\linqdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\obj\Debug\net8.0\linqdemo.AssemblyInfoInputs.cache
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\obj\Debug\net8.0\linqdemo.AssemblyInfo.cs
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\obj\Debug\net8.0\linqdemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\obj\Debug\net8.0\linqdemo.dll
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\obj\Debug\net8.0\refint\linqdemo.dll
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\obj\Debug\net8.0\linqdemo.pdb
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\obj\Debug\net8.0\linqdemo.genruntimeconfig.cache
+D:\GreatLearning4\Phase2\Day1\P2Day1Projects\linqdemo\obj\Debug\net8.0\ref\linqdemo.dll
