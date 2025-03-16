@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\Phase2\\Day4\\P2Day4Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC17D2B4-2D70-4188-BE11-808B5E69DAB4}|navigatingtabledemo\\navigatingtabledemo.csproj|d:\\greatlearning4\\phase2\\day4\\p2day4projects\\navigatingtabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC17D2B4-2D70-4188-BE11-808B5E69DAB4}|navigatingtabledemo\\navigatingtabledemo.csproj|solutionrelative:navigatingtabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC17D2B4-2D70-4188-BE11-808B5E69DAB4}|navigatingtabledemo\\navigatingtabledemo.csproj|d:\\greatlearning4\\phase2\\day4\\p2day4projects\\navigatingtabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC17D2B4-2D70-4188-BE11-808B5E69DAB4}|navigatingtabledemo\\navigatingtabledemo.csproj|solutionrelative:navigatingtabledemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day4\\P2Day4Projects\\navigatingtabledemo\\Form1.cs",
+              "RelativeDocumentMoniker": "navigatingtabledemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day4\\P2Day4Projects\\navigatingtabledemo\\Form1.cs",
+              "RelativeToolTip": "navigatingtabledemo\\Form1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAD4v0cAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:22:38.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day4\\P2Day4Projects\\navigatingtabledemo\\Form1.cs",
+              "RelativeDocumentMoniker": "navigatingtabledemo\\Form1.cs",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day4\\P2Day4Projects\\navigatingtabledemo\\Form1.cs [Design]",
+              "RelativeToolTip": "navigatingtabledemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:18:45.747Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
