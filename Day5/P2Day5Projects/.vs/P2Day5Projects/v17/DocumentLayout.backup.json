@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase2\\day5\\p2day5projects\\entityframeworkdemo1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase2\\day5\\p2day5projects\\entityframeworkdemo1\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase2\\day5\\p2day5projects\\entityframeworkdemo1\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase2\\day5\\p2day5projects\\entityframeworkdemo1\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase2\\day5\\p2day5projects\\entityframeworkdemo1\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase2\\day5\\p2day5projects\\entityframeworkdemo1\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase2\\day5\\p2day5projects\\entityframeworkdemo1\\models\\northwndcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1315C888-7BD2-4112-A5BC-5786AEAEF77A}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\models\\northwndcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Details.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\Post\\Details.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Details.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\Post\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T22:59:27.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T22:54:06.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\Post\\Index.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\Post\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T22:47:53.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\Post\\Create.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Create.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\Post\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T22:43:21.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Controllers\\PostController.cs*",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Controllers\\PostController.cs*",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:29:02.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthwndContext.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Models\\NorthwndContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Models\\NorthwndContext.cs",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Models\\NorthwndContext.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Models\\NorthwndContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:26:58.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NorthWindController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Controllers\\NorthWindController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Controllers\\NorthWindController.cs",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day5\\P2Day5Projects\\EntityFrameworkDemo1\\Controllers\\NorthWindController.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Controllers\\NorthWindController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAD4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:02:15.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
