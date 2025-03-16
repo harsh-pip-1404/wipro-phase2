@@ -1,0 +1,58 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>StudentReactWebApIDemo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/StudentReactWebApIDemo</BasePath>
+      <RelativePath>images/1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>texyuffgp9</Fingerprint>
+      <Integrity>W7gzOk+yQRS8IR8hN0M1UY5e39C6nYkOSJbpXKXT3y8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4bf53267-ef12-407f-8b24-21662a905589.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>StudentReactWebApIDemo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/StudentReactWebApIDemo</BasePath>
+      <RelativePath>images/4bf53267-ef12-407f-8b24-21662a905589.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>izlaxkefte</Fingerprint>
+      <Integrity>zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4bf53267-ef12-407f-8b24-21662a905589.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>StudentReactWebApIDemo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/StudentReactWebApIDemo</BasePath>
+      <RelativePath>images/ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>izlaxkefte</Fingerprint>
+      <Integrity>zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

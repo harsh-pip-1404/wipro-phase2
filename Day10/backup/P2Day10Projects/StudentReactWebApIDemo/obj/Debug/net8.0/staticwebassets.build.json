@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "G9suUBxsX6bKbVjhoClmvdi0PecibypTzUc9s9A7yMc=",
+  "Source": "StudentReactWebApIDemo",
+  "BasePath": "_content/StudentReactWebApIDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StudentReactWebApIDemo\\wwwroot",
+      "Source": "StudentReactWebApIDemo",
+      "ContentRoot": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\",
+      "BasePath": "_content/StudentReactWebApIDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp",
+      "SourceId": "StudentReactWebApIDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\",
+      "BasePath": "_content/StudentReactWebApIDemo",
+      "RelativePath": "images/1ff2ac56-465d-4a1c-b4b2-969ec507d111#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "texyuffgp9",
+      "Integrity": "W7gzOk+yQRS8IR8hN0M1UY5e39C6nYkOSJbpXKXT3y8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp"
+    },
+    {
+      "Identity": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\4bf53267-ef12-407f-8b24-21662a905589.jpg",
+      "SourceId": "StudentReactWebApIDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\",
+      "BasePath": "_content/StudentReactWebApIDemo",
+      "RelativePath": "images/4bf53267-ef12-407f-8b24-21662a905589#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "izlaxkefte",
+      "Integrity": "zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4bf53267-ef12-407f-8b24-21662a905589.jpg"
+    },
+    {
+      "Identity": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg",
+      "SourceId": "StudentReactWebApIDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\",
+      "BasePath": "_content/StudentReactWebApIDemo",
+      "RelativePath": "images/ce0e24ba-4b53-422c-acee-6dac97d684ae#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "izlaxkefte",
+      "Integrity": "zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/1ff2ac56-465d-4a1c-b4b2-969ec507d111.texyuffgp9.webp",
+      "AssetFile": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7gzOk+yQRS8IR8hN0M1UY5e39C6nYkOSJbpXKXT3y8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 09:28:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "texyuffgp9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W7gzOk+yQRS8IR8hN0M1UY5e39C6nYkOSJbpXKXT3y8="
+        }
+      ]
+    },
+    {
+      "Route": "images/1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp",
+      "AssetFile": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7gzOk+yQRS8IR8hN0M1UY5e39C6nYkOSJbpXKXT3y8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 09:28:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W7gzOk+yQRS8IR8hN0M1UY5e39C6nYkOSJbpXKXT3y8="
+        }
+      ]
+    },
+    {
+      "Route": "images/4bf53267-ef12-407f-8b24-21662a905589.izlaxkefte.jpg",
+      "AssetFile": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\4bf53267-ef12-407f-8b24-21662a905589.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 10:06:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "izlaxkefte"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4bf53267-ef12-407f-8b24-21662a905589.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4="
+        }
+      ]
+    },
+    {
+      "Route": "images/4bf53267-ef12-407f-8b24-21662a905589.jpg",
+      "AssetFile": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\4bf53267-ef12-407f-8b24-21662a905589.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 10:06:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4="
+        }
+      ]
+    },
+    {
+      "Route": "images/ce0e24ba-4b53-422c-acee-6dac97d684ae.izlaxkefte.jpg",
+      "AssetFile": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 10:07:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "izlaxkefte"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4="
+        }
+      ]
+    },
+    {
+      "Route": "images/ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg",
+      "AssetFile": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 10:07:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zr4nmYvJPQlGpbWIdox7Xt+LRUOQk01TTuT76XT89W4="
+        }
+      ]
+    }
+  ]
+}

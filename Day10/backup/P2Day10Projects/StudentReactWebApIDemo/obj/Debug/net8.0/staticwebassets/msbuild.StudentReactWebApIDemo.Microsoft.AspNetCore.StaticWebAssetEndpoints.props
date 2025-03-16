@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/StudentReactWebApIDemo/images/1ff2ac56-465d-4a1c-b4b2-969ec507d111.texyuffgp9.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"texyuffgp9"},{"Name":"integrity","Value":"sha256-W7gzOk\u002ByQRS8IR8hN0M1UY5e39C6nYkOSJbpXKXT3y8="},{"Name":"label","Value":"_content/StudentReactWebApIDemo/images/1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13006"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022W7gzOk\u002ByQRS8IR8hN0M1UY5e39C6nYkOSJbpXKXT3y8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 09:28:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/StudentReactWebApIDemo/images/1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W7gzOk\u002ByQRS8IR8hN0M1UY5e39C6nYkOSJbpXKXT3y8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13006"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022W7gzOk\u002ByQRS8IR8hN0M1UY5e39C6nYkOSJbpXKXT3y8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 09:28:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/StudentReactWebApIDemo/images/4bf53267-ef12-407f-8b24-21662a905589.izlaxkefte.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4bf53267-ef12-407f-8b24-21662a905589.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"izlaxkefte"},{"Name":"integrity","Value":"sha256-zr4nmYvJPQlGpbWIdox7Xt\u002BLRUOQk01TTuT76XT89W4="},{"Name":"label","Value":"_content/StudentReactWebApIDemo/images/4bf53267-ef12-407f-8b24-21662a905589.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55533"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zr4nmYvJPQlGpbWIdox7Xt\u002BLRUOQk01TTuT76XT89W4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 10:06:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/StudentReactWebApIDemo/images/4bf53267-ef12-407f-8b24-21662a905589.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4bf53267-ef12-407f-8b24-21662a905589.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zr4nmYvJPQlGpbWIdox7Xt\u002BLRUOQk01TTuT76XT89W4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"55533"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zr4nmYvJPQlGpbWIdox7Xt\u002BLRUOQk01TTuT76XT89W4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 10:06:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/StudentReactWebApIDemo/images/ce0e24ba-4b53-422c-acee-6dac97d684ae.izlaxkefte.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"izlaxkefte"},{"Name":"integrity","Value":"sha256-zr4nmYvJPQlGpbWIdox7Xt\u002BLRUOQk01TTuT76XT89W4="},{"Name":"label","Value":"_content/StudentReactWebApIDemo/images/ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55533"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zr4nmYvJPQlGpbWIdox7Xt\u002BLRUOQk01TTuT76XT89W4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 10:07:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/StudentReactWebApIDemo/images/ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zr4nmYvJPQlGpbWIdox7Xt\u002BLRUOQk01TTuT76XT89W4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"55533"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zr4nmYvJPQlGpbWIdox7Xt\u002BLRUOQk01TTuT76XT89W4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Mar 2025 10:07:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

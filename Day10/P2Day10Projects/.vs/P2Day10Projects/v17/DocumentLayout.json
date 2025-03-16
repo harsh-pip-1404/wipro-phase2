@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase2\\day10\\p2day10projects\\studentreactwebapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase2\\day10\\p2day10projects\\studentreactwebapidemo\\data\\appdbconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\data\\appdbconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase2\\day10\\p2day10projects\\studentreactwebapidemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase2\\day10\\p2day10projects\\studentreactwebapidemo\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase2\\day10\\p2day10projects\\studentreactwebapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase2\\day10\\p2day10projects\\studentreactwebapidemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E13765-8ED3-4584-BF23-03F106995FE4}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T19:51:48.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Models\\StudentDto.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Models\\StudentDto.cs",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Models\\StudentDto.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Models\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:45:17.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbConext.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Data\\AppDbConext.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Data\\AppDbConext.cs",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Data\\AppDbConext.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Data\\AppDbConext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:09:07.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Program.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwG4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:27:02.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:08:26.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAcwIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:34:31.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
