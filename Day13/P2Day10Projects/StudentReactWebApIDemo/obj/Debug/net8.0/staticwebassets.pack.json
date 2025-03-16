@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp",
+      "PackagePath": "staticwebassets\\images\\1ff2ac56-465d-4a1c-b4b2-969ec507d111.webp"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\4bf53267-ef12-407f-8b24-21662a905589.jpg",
+      "PackagePath": "staticwebassets\\images\\4bf53267-ef12-407f-8b24-21662a905589.jpg"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\a6705f23-892f-4526-8f34-4d49bd8e6351.jpg",
+      "PackagePath": "staticwebassets\\images\\a6705f23-892f-4526-8f34-4d49bd8e6351.jpg"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\Phase2\\Day10\\P2Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg",
+      "PackagePath": "staticwebassets\\images\\ce0e24ba-4b53-422c-acee-6dac97d684ae.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentReactWebApIDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentReactWebApIDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudentReactWebApIDemo.props",
+      "PackagePath": "build\\StudentReactWebApIDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentReactWebApIDemo.props",
+      "PackagePath": "buildMultiTargeting\\StudentReactWebApIDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudentReactWebApIDemo.props",
+      "PackagePath": "buildTransitive\\StudentReactWebApIDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
